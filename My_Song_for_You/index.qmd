@@ -1,4 +1,4 @@
-# UTS-2: Sebuah Melodi untuk Masa Lalu yang Membentukku
+#UTS-2 My Songs for You
 
 Ada kenangan yang begitu kuat hingga warnanya tak akan pernah pudar, bahkan dalam lembaran foto hitam putih sekalipun. Musik, bagi saya, adalah mesin waktu yang bisa membawa kembali kehangatan dari kenangan itu. Lagu ini bukan sekadar lagu; ini adalah ucapan terima kasih saya yang paling tulus untuk fondasi hidup yang telah diberikan.
 
@@ -12,7 +12,7 @@ Setiap kali mendengar lagu ini, saya seperti diajak kembali ke rumah masa kecil 
 
 Lirik "Denganmu, gelap ku tak pernah kelabu" adalah kalimat yang paling tepat untuk menggambarkan peran mereka. Mereka adalah cahaya yang memastikan bahwa perjalanan saya selalu dipenuhi warna harapan dan kebaikan. Lagu ini adalah perayaan untuk masa lampau yang tidak akan pernah hilang ditelan waktu, sebuah pengingat abadi akan akar dari mana saya bertumbuh.
 
-{{< video https://www.youtube.com/watch?v=I-QQa_m_c8g >}}
+{{< video https://youtu.be/QqJ-Vp8mvbk?si=EwTS6Vq6e2jJM6FR >}}
 
 > **Lirik Lengkap "Monokrom"**
 >
