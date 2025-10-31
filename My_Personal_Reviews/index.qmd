@@ -79,6 +79,8 @@ Berikut adalah hasil penilaian terhadap portofolio rekan-rekan mahasiswa. Penila
 
 ### Unduh Lembar Skor Lengkap
 
-Semua skor kuantitatif dari Self-Assessment dan Peer-Assessment telah saya rekam dalam file `UTS-5_Skor.csv` sesuai format yang diberikan.
+Semua skor kuantitatif dari asesmen yang dilakukan telah saya rekam dalam format CSV sesuai template yang diberikan.
 
-[**Klik di sini untuk mengunduh Lembar Skor (.csv)**](./UTS-5_Skor.csv)
+[**1. Unduh Lembar Skor (Self + Peer)**](./UTS-5_Skor.csv)
+
+[**2. Unduh Rekap Self-Assessment (Format Otomatis)**](./Self-Assessment_UTS-1_s_d__UTS-5__dibuat_otomatis_.csv)
