@@ -3,31 +3,33 @@
 > "Kemiskinan bukan hanya soal kurangnya uang, tetapi tentang hilangnya kemampuan untuk memenuhi hak-hak dasar manusia."
 
 ## 1. Definisi Konseptual
-[cite_start]Berdasarkan riset yang saya pelajari, **Kemiskinan Global** merujuk pada kondisi di mana individu kekurangan kebutuhan dasar seperti makanan, air bersih, perumahan, pendidikan, dan layanan kesehatan[cite: 182].
+Berdasarkan riset yang saya pelajari, **Kemiskinan Global** merujuk pada kondisi di mana individu kekurangan kebutuhan dasar seperti makanan, air bersih, perumahan, pendidikan, dan layanan kesehatan.
 
-[cite_start]Secara teknis, Bank Dunia mendefinisikan **kemiskinan ekstrem** sebagai kondisi bertahan hidup dengan pendapatan di bawah **USD 2,15 per hari**[cite: 183]. Ini adalah ambang batas yang membuat seseorang sulit memenuhi standar hidup minimum.
+Secara teknis, Bank Dunia mendefinisikan **kemiskinan ekstrem** sebagai kondisi bertahan hidup dengan pendapatan di bawah **USD 2,15 per hari**. Ini adalah ambang batas yang membuat seseorang sulit memenuhi standar hidup minimum.
 
 ## 2. Realitas Data (The Reality)
 Mengapa konsep ini penting untuk dibahas sekarang? Karena skalanya sangat masif:
 
-* [cite_start]**Populasi Terdampak:** Sekitar **700 juta orang** (8,5% populasi dunia) saat ini hidup dalam kemiskinan ekstrem[cite: 185].
-* [cite_start]**Lokasi:** Mayoritas terkonsentrasi di negara berpenghasilan rendah, khususnya di **Sub-Sahara Afrika**[cite: 186].
-* [cite_start]**Tren:** Penurunan kemiskinan sempat mengalami kemunduran akibat pandemi COVID-19 dan krisis ekonomi global[cite: 188].
+* **Populasi Terdampak:** Sekitar **700 juta orang** (8,5% populasi dunia) saat ini hidup dalam kemiskinan ekstrem.
+* **Lokasi:** Mayoritas terkonsentrasi di negara berpenghasilan rendah, khususnya di **Sub-Sahara Afrika**.
+* **Tren:** Penurunan kemiskinan sempat mengalami kemunduran akibat pandemi COVID-19 dan krisis ekonomi global.
 
 ## 3. Konsep "Lingkaran Setan" (The Vicious Cycle)
 Kemiskinan bukan kejadian tunggal, melainkan sebuah siklus. Konsep utamanya adalah **Lingkaran Setan Kemiskinan**:
 
 1.  **Ekonomi Rendah:** Pendapatan rendah membatasi akses ke makanan bergizi dan layanan kesehatan.
-2.  [cite_start]**Dampak Fisik:** Hal ini menyebabkan malnutrisi dan kesehatan yang buruk.
-3.  [cite_start]**Dampak Edukasi:** Tingkat pendidikan menjadi rendah karena biaya atau kondisi fisik yang lemah.
-4.  [cite_start]**Dampak Ekonomi Lanjutan:** Terbatasnya kesempatan ekonomi (karena kurang pendidikan/kesehatan), yang akhirnya memperkuat kembali kemiskinan itu sendiri.
+2.  **Dampak Fisik:** Hal ini menyebabkan malnutrisi dan kesehatan yang buruk.
+3.  **Dampak Edukasi:** Tingkat pendidikan menjadi rendah karena biaya atau kondisi fisik yang lemah.
+4.  **Dampak Ekonomi Lanjutan:** Terbatasnya kesempatan ekonomi (karena kurang pendidikan/kesehatan), yang akhirnya memperkuat kembali kemiskinan itu sendiri.
 
 ## 4. Refleksi Pribadi
-[Tuliskan sedikit pemikiranmu di sini. Contoh: "Sebagai mahasiswa, saya melihat bahwa solusi kemiskinan tidak bisa hanya dengan bantuan tunai, tetapi harus memutus rantai di sektor pendidikan dan kesehatan."]
+Setelah mendalami topik ini, saya menyadari bahwa kemiskinan global adalah masalah multidimensi yang memerlukan pendekatan holistik. Sebagai generasi muda, saya melihat bahwa pengentasan kemiskinan tidak cukup hanya dengan memberikan bantuan finansial semata (*charity*), tetapi harus melalui pemberdayaan (*empowerment*).
+
+Pendidikan berkualitas dan akses kesehatan yang merata adalah kunci utama untuk memutus mata rantai kemiskinan ini. Tanpa fondasi tersebut, individu yang lahir dalam kemiskinan akan terus terjebak dalam sistem yang tidak memihak mereka. Kesadaran ini memotivasi saya untuk lebih peduli terhadap isu-isu sosial dan mendukung inovasi yang berkelanjutan demi menciptakan dunia yang lebih setara.
 
 ---
 
 **Referensi Materi:**
-* *Laporan Global Poverty & SDG 1 PBB*
+* *Laporan Global Poverty (World Bank) & SDG 1 PBB*
 
-{{< video https://youtu.be/kl39KHS07Xc >}}
+{{< video https://www.youtube.com/watch?v=kl39KHS07Xc >}}
