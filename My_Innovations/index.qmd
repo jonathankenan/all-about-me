@@ -1,6 +1,6 @@
 # UAS-3 My Innovations
 
-![Model Ekosistem](../images/inovasi.png)
+![Model Ekosistem](../images/kepedulian.jpg)
 
 **Judul: The "Empowerment Ecosystem": Mengubah Jaring Pengaman Menjadi Landasan Peluncuran**
 
@@ -15,19 +15,22 @@ Sistem ini bukan sekadar aplikasi, melainkan **rekayasa sosial-ekonomi** yang me
 
 ### 1. Education: Contextual Micro-Credentials (*The Software*)
 Sistem pendidikan konvensional seringkali tidak relevan bagi masyarakat miskin (misal: belajar sejarah Eropa padahal butuh teknik pertanian).
-* **Inovasi:** **"Sekolah Vokasi Berbasis Aset Lokal"**.
+
+* **Inovasi:** "Sekolah Vokasi Berbasis Aset Lokal".
 * **Mekanisme:** Kurikulum disusun berdasarkan potensi daerah. Jika daerah pesisir, kurikulumnya adalah "Teknologi Pengawetan Ikan & Navigasi Digital".
 * **Teknologi:** Menggunakan modul *Micro-Learning* offline (untuk daerah minim sinyal) yang mengajarkan *skill* praktis bernilai ekonomi tinggi dalam waktu singkat.
 
 ### 2. Economy: Social Collateral Finance (*The Fuel*)
 Bank tidak mau meminjamkan uang ke orang miskin karena "Risiko Tinggi" dan "Tanpa Agunan". Rentenir masuk mengisi kekosongan ini dengan bunga mencekik.
-* **Inovasi:** **"Pembiayaan Berbasis Kepercayaan Sosial"**.
+
+* **Inovasi:** "Pembiayaan Berbasis Kepercayaan Sosial".
 * **Mekanisme:** Mengadopsi dan memodifikasi model *Grameen Bank*. Peminjam wajib membentuk kelompok (5 orang). Jika satu gagal bayar, semua menanggung. Ini menciptakan *Social Pressure* yang positif untuk saling menjaga.
 * **Fitur Baru:** *Asset-Locking Capital*. Uang pinjaman tidak dicairkan tunai (agar tidak dipakai beli rokok/pulsa), melainkan langsung dibelikan **Aset Produktif** (bibit, mesin jahit, alat pertukangan) oleh sistem.
 
 ### 3. Equity: Digital Cooperative Marketplace (*The Road*)
 Orang miskin seringkali memproduksi barang bagus, tapi keuntungan mereka habis dimakan tengkulak (*middlemen*).
-* **Inovasi:** **"Koperasi Digital Terdesentralisasi"**.
+
+* **Inovasi:** "Koperasi Digital Terdesentralisasi".
 * **Mekanisme:** Sebuah platform *marketplace* khusus (B2B) yang menghubungkan produsen desa langsung dengan pembeli kota atau pabrik.
 * **Transparansi:** Menggunakan sistem pencatatan digital sederhana untuk memastikan harga jual yang diterima petani adalah harga wajar, memotong rantai pasok yang korup.
 
@@ -43,6 +46,7 @@ Berbeda dengan sumbangan yang "putus" setelah diberikan, sistem ini adalah siklu
 ## IV. Indikator Keberhasilan (Impact Metrics)
 
 Sukses dalam inovasi ini tidak diukur dari "berapa nasi bungkus yang dibagikan", melainkan:
+
 1.  **Graduation Rate:** Berapa persen peserta yang berhasil lepas dari bantuan dalam 2 tahun.
 2.  **Income Stability:** Peningkatan pendapatan rata-rata bulanan.
 3.  **Asset Ownership:** Jumlah aset produktif yang berhasil dimiliki keluarga secara mandiri.
