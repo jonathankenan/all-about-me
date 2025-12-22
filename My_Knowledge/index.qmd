@@ -16,11 +16,13 @@ Mengadopsi kerangka berpikir sistem (*Systems Thinking*), saya memetakan pengeta
 
 ### A. Lapisan Fundamental (F - *The Why & Who*)
 Ini adalah fondasi teoritis. Saya merujuk pada dua konsep kunci:
+
 * **Psikologi Kelangkaan (*Scarcity Mindset*):** Riset Sendhil Mullainathan menunjukkan bahwa kemiskinan menyita kapasitas mental (*bandwidth*), menurunkan IQ fungsional hingga 13 poin. Artinya, keputusan buruk orang miskin bukan karena "bodoh", tapi karena beban kognitif yang berlebih.
 * **Capability Approach:** Teori Amartya Sen (Peraih Nobel) yang menyatakan bahwa kemiskinan bukan sekadar kurangnya uang, melainkan hilangnya kebebasan untuk mewujudkan potensi diri (*capabilities*).
 
 ### B. Lapisan Teknologi (T - *The How*)
 Bagaimana teknologi menjadi *enabler*, bukan solusi tunggal:
+
 * **Fintech & Blockchain:** Pemanfaatan *Smart Contracts* untuk memastikan dana bantuan sampai ke target tanpa potongan korupsi (transparansi radikal).
 * **Digital Identity:** Memberikan identitas legal digital bagi 1 miliar orang "tak terlihat" agar bisa mengakses layanan perbankan dan kesehatan.
 
