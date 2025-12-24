@@ -7,6 +7,4 @@ Halaman ini berisi dokumentasi penilaian profesional yang mencakup Self-Assessme
 
 Berikut adalah file rekapitulasi skor penilaian untuk seluruh rangkaian tugas (UAS 1-4) yang telah diisi.
 
-:inbox_tray: **[Download Lembar Skor UAS-5 (.xlsx)](UAS-5_Skor.xlsx)**
-
-> *Silakan unduh file di atas untuk melihat detail penilaian.*
+**[Download Lembar Skor UAS-5 (.xlsx)](UAS-5_Skor.xlsx)**
