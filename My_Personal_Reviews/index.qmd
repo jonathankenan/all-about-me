@@ -1,5 +1,13 @@
 # UTS-5 My Personal Review
 
+## Perbaikan Lembar Skor Penilaian (UTS-5)
+
+Berikut adalah file rekapitulasi skor penilaian untuk seluruh rangkaian tugas (UTS 1-4) yang telah diisi. Sebelumnya saya salah menilai list orang-orang, berikut adalah perbaikan penilaian :
+
+**[Download Lembar Skor UTS-5 (.xlsx)](UTS-5_Skor(perbaikan).xlsx)**
+
+## Sebelum Perbaikan Lembar Skor Penilaian (UTS-5)
+
 Selamat datang di tahap refleksi. Bagian ini adalah wujud dari keyakinan saya bahwa pertumbuhan sejati lahir dari evaluasi yang jujur dan kritis. Sesuai dengan instruksi tugas, halaman ini berisi dua jenis asesmen terhadap karya UTS-1 hingga UTS-4:
 
 1.  **Self-Assessment:** Sebuah tinjauan mendalam yang dilakukan untuk menganalisis kekuatan dan area pengembangan dari karya saya sendiri.
